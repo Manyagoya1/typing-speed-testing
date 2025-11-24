@@ -44,16 +44,16 @@ print("----- TYPING SPEED TEST -----")
 while True:
     sample = random.choice(samples)
     print("\nType this sentence exactly:")
-    print("👉", sample)
+    print(sample)
     print()
 
     choice = input("Press ENTER to start or type 'quit' to exit: ")
 
     if choice == "quit":
-        print("Bye! You did great ✨")
+        print("Bye! You did great !!")
         break
     else:
-        print("\nStart typing below 👇")
+        print("\nStart typing below")
 
         start_time = time.time()  
         typed = input("> ")       
@@ -64,7 +64,7 @@ while True:
         print("\n----- RESULT -----")
 
         if typed == "":
-            print("Brooo you typed nothing 😭😭")
+            print("Brooo you typed nothing")
         else:
             words = len(typed.split())
             wpm = words / (time_taken / 60)
@@ -91,6 +91,5 @@ while True:
         again = input("Wanna test again? (yes/no): ")
 
         if again.lower() == "no":
-            print("Okayy bye! Proud of you 🙌")
-            break
-
+            print("Okayy bye! Proud of you ;)")
+            
