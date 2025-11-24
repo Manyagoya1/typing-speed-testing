@@ -34,8 +34,8 @@ The program shows a random sentence, times the user's typing, and calculates **W
 - Program asks if you want to try again.
 
 ## instruction for testing
--keep your hands relaxed
--maintain a staedy rhythm
+- keep your hands relaxed
+- maintain a steady rhythm
 
 ## screenshots
  
