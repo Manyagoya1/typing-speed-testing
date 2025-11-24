@@ -33,11 +33,11 @@ The program shows a random sentence, times the user's typing, and calculates **W
 - It shows your WPM, accuracy, and time.
 - Program asks if you want to try again.
 
-## instruction for testing
+## INSTRUCTION FOR TESTING
 - keep your hands relaxed
 - maintain a steady rhythm
 
-## screenshots
+## SCREENSHOTS
  
  <img width="975" height="1089" alt="image" src="https://github.com/user-attachments/assets/5066c156-a172-4923-92d7-c5d741f5f569" />
 
