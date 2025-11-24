@@ -20,7 +20,9 @@ The program shows a random sentence, times the user's typing, and calculates **W
 ## HOW TO INSTALL AND RUN ?
 1. Download or clone this repository:
    https://github.com/Manyagoya1/typing-speed-testing
+   
 2.Open the folder:
+
    cd typing_speed_test
 
 3. Run the program
