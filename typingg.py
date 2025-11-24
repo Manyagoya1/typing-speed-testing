@@ -2,11 +2,25 @@ import time
 import random
 
 samples = [
-    "the quick brown fox jumps over the lazy dog",
     "python is a great language for beginners",
     "practice daily to improve your typing speed",
     "coding becomes easier when you stay consistent",
     "never give up because small progress is still progress",
+    "accurate typing requires focus and steady practice",
+    "typing speed improves when you practice every day",
+    "good posture helps you type faster and more comfortably",
+    "use both hands while typing to increase your speed",
+    "try not to look at the keyboard while typing",
+    "consistent practice is the key to better typing skills",
+    "accuracy is more important than speed in the beginning",
+    "learn to use all your fingers for efficient typing",
+    "keep your hands relaxed while typing to avoid mistakes",
+    "proper hand placement improves both speed and accuracy",
+    "typing without errors takes time and patience",
+    "typing with confidence comes from regular practice",
+    "improving your typing is a slow but steady process",
+    "stay calm and focused while typing long sentences",
+    "good typing habits help you in studies and daily tasks",
     "hard work beats talent when talent does not work hard",
     "focus on learning step by step and trust the process",
     "i swear my brain has only two moods: overthinking and sleeping",
@@ -25,7 +39,7 @@ samples = [
     "my typing speed increases only when i’m arguing",
     "coffee said 'not today bestie' and left me on read",]
 
-print("----- Typing Speed Test -----")
+print("----- TYPING SPEED TEST -----")
 
 while True:
     sample = random.choice(samples)
@@ -77,5 +91,6 @@ while True:
         again = input("Wanna test again? (yes/no): ")
 
         if again.lower() == "no":
-            print("Okayy bye! Proud of you 💖")
+            print("Okayy bye! Proud of you 🙌")
             break
+
